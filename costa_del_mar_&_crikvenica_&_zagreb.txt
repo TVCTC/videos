@@ -1,4 +1,5 @@
-radio_live: https://www.costadelmar-radio.com/chillout/
+Costa Del Mar Chillout Radio
+web: https://www.costadelmar-radio.com/chillout/
 radio_stream: https://radio4.cdm-radio.com:18020/stream-mp3-Chill
 video_1: https://www.costadelmar-radio.com/wp-content/themes/cdm/images/tv/Film_demo_site.mp4
 video_2: https://www.costadelmar-radio.com/Videos/HD/Flying%20Over%20Oahu%20Mastered%204K.mp4
@@ -8,11 +9,13 @@ video_5: https://www.costadelmar-radio.com/Videos/HD/Above%20the%20Spanish%20Isl
 video_6: https://www.costadelmar-radio.com/Videos/HD/Above%20the%20Fiji%20Islands%201HR%20Aerial%20Nature%20Relaxation%204K.mp4
 video_7: https://www.costadelmar-radio.com/Videos/HD/Above%20The%20Fiji%20Islands%202%20Nature%20Relaxation%204K%20Just%20Nature%20Sounds.mp4
 
-radio_stream: https://kastel2020.radioca.st/stream (Radio Kaštel)
+Radio Kaštel
+web: https://www.radio-kastel.com/
+radio_stream: https://kastel2020.radioca.st/stream
+
+WhatsUpCams.com
 video_stream_crikvenica_1: https://cdn-004.whatsupcams.com/hls/hr_crikvenica1.m3u8 (Referer: https://www.whatsupcams.com/)
 video_stream_crikvenica_2: https://wowza.3tcable.hr/CrikvaCrniMul/CrikvaCrniMul.stream/chunklist.m3u8
-
 video_stream_zagreb_1: https://cdn-001.whatsupcams.com/hls/hr_zagreb5.m3u8 (Referer: https://www.whatsupcams.com/)
 video_stream_zagreb_2: https://cdn-004.whatsupcams.com/hls/hr_zagreb7.m3u8 (Referer: https://www.whatsupcams.com/)
-
 video_stream_ivanja_reka_1: https://cdn-004.whatsupcams.com/hls/hr_ivanjareka01.m3u8 (Referer: https://www.whatsupcams.com/)
